@@ -66,11 +66,11 @@
 
 
 * **Panna cotta**
-  * Giet de kokosroom in een pannetje. Gebruik het water om de blikken uit te spoelen en gebruik dit ook.
-  * Voeg de suiker en de agar agar toe. 
-  * Breng aan de kook en laat enkele minuten doorkoken. Klop/roer intussen goed over de bodem met een garde.
-  * Vul ongeveer 15 (siliconen) cupcakevormpjes tot de rand en laat afkoelen.
-  * Bewaar in de frigo. 
+  1. Giet de kokosroom in een pannetje. Gebruik het water om de blikken uit te spoelen en gebruik dit ook.
+  2. Voeg de suiker en de agar agar toe. 
+  3. Breng aan de kook en laat enkele minuten doorkoken. Klop/roer intussen goed over de bodem met een garde.
+  4. Vul ongeveer 15 (siliconen) cupcakevormpjes tot de rand en laat afkoelen.
+  5. Bewaar in de frigo. 
 
 
 * **Crème van passievrucht**
@@ -86,12 +86,12 @@
 ## Presentatie
 
 Zie foto bovenaan:
-* Leg een panna cotta aan één kant van het bord.
-* Giet er 1 eetlepel passievruchtcrème over en 2 eetlepels erlangs.
-* Snijd het poepje van een cakeje en leg het cakeje omgekeerd in de passievrucht.
-* Leg een toefje kokokyoghurt op het cakeje
-* Leg het poepje apart op het bord en bestrooi met kokokpoeder
-* Schep enkele eetlepels crumble tussen de twee torentjes
-* Werk de torentje af met twee stukjes kokoschips.
+  1. Leg een panna cotta aan één kant van het bord.
+  2. Giet er 1 eetlepel passievruchtcrème over en 2 eetlepels erlangs.
+  3. Snijd het poepje van een cakeje en leg het cakeje omgekeerd in de passievrucht.
+  4. Leg een toefje kokokyoghurt op het cakeje
+  5. Leg het poepje apart op het bord en bestrooi met kokokpoeder
+  6. Schep enkele eetlepels crumble tussen de twee torentjes
+  7. Werk de torentje af met twee stukjes kokoschips.
 
 Of verzin iets helemaal anders!
