@@ -10,17 +10,17 @@
   *	200 g suiker
   *	130 g kokospoeder 
   *	100 g kokosolie
-  *	230 g sojamelk
-  *	12 g tapiocazetmeel (of maiszetmeel)
+  *	200 g sojamelk
+  *	12 g tapiocazetmeel (of maïszetmeel)
   *	1 el appelazijn
   *	1 tl natriumbicarbonaat
   * snuifje zwart zout (eiersmaak, niet echt nodig)
 
 
 * **Crumble**
-  * 100 g bloem
-  * 100 g (kinnekes)suiker
-  * 100 g kokospoeder
+  * 100 g roggemeel (tarwebloem kan ook)
+  * 75 g (kinnekes)suiker
+  * 100 g amandelpoeder
   * 50 g gehakte amandelen
   * 75 g margarine (> 70% vet, bv. Alpro Bakken en Braden)
   * snuifje zout
