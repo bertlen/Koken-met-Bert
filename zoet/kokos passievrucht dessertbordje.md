@@ -66,9 +66,9 @@
 
 
 * **Panna cotta**
-  1. Giet de kokosroom in een pannetje. Gebruik het water om de blikken uit te spoelen en gebruik dit ook.
+  1. Giet de kokosroom in een pannetje. Spoel de blikken uit met het water en gebruik dit ook.
   2. Voeg de suiker en de agar agar toe. 
-  3. Breng aan de kook en laat enkele minuten doorkoken. Klop/roer intussen goed over de bodem met een garde.
+  3. Breng aan de kook en laat enkele minuten doorkoken. Klop/roer intussen goed met een garde.
   4. Vul ongeveer 15 (siliconen) cupcakevormpjes tot de rand en laat afkoelen.
   5. Bewaar in de frigo. 
 
@@ -79,8 +79,8 @@
   3. Verwarm in de magnetron tot de margarine gesmolten is. 
   4. Voeg de xanthaangom toe 
   5. Mix goed door met de staafmixer tot een gladde, smeuïge saus 
-  6. Bewaar in een pot met deksel in de frigo. 
-  7. Verwarm en mix eventueel nog eens door voor gebruik, mochten er zich klontertjes gevormd hebben (kan gebeuren na lange tijd in de frigo).
+  6. Bewaar in een pot met deksel in de frigo (een week) of op het aanrecht (een dag). 
+  7. Verwarm en mix eventueel nog eens door voor gebruik, mochten er zich klontertjes gevormd hebben (kan gebeuren na langere tijd in de frigo).
   
 
 ## Presentatie
