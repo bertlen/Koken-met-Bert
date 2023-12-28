@@ -1,7 +1,7 @@
 # Structuren van Kokos met een Crème van Passievrucht
 *Als het eens echt feestelijk moet zijn!*
 
-![dessertbordje](../images/kokos-passievrucht-dessert.jpg)
+![dessertbordje](images/kokos-passievrucht-dessert.jpg)
 
 ## Ingrediënten (15 bordjes)
 
@@ -88,7 +88,7 @@
 Zie foto bovenaan:
   1. Leg een panna cotta aan één kant van het bord.
   2. Giet er 1 eetlepel passievruchtcrème over en 2 eetlepels erlangs.
-  3. Snijd het poepje van een cakeje en leg het cakeje omgekeerd in de passievrucht.
+  3. Snijd het poepje van een cakeje en leg het cakeje omgekeerd in de passievruchtcrème.
   4. Leg een toefje kokokyoghurt op het cakeje
   5. Leg het poepje apart op het bord en bestrooi met kokokpoeder
   6. Schep enkele eetlepels crumble tussen de twee torentjes
