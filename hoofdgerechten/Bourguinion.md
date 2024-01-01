@@ -29,7 +29,8 @@
 * Voeg de wortels, de laurier, de tijm en de sojabrokken toe
 * Bak de shiitakes in bakmargarine in een aparte pan, deglaceer eventueel met wat water en voeg ook deze toe aan de bourguinion.
 * Voeg de tamari toe (proef voor de juiste zoutheid)
-* Laat pruttelen zonder deksel (de alcohol mag helemaal uitdampen). Voeg eventueel wat water toe als het te droog wordt.  
+* Laat pruttelen zonder deksel (de alcohol mag helemaal uitdampen). Voeg eventueel wat water toe als het te droog wordt.
+* Bak intussen ook de rest van de champignons en voeg deze toe als de bourguinion bijna klaar is
 * De bourguinion is klaar als de groenten helemaal zacht zijn.
-* Voeg het tapiocazetmeel toe en roer goed 
+* Voeg nu het tapiocazetmeel toe en roer goed.
 * Voeg water toe tot de saus de gewenste consistentie krijgt. Voeg later, als je opnieuw opwarmt, eventueel nog water toe.
