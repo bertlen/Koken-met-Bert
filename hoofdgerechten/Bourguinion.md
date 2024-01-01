@@ -11,7 +11,7 @@
 * 500 ml rode wijn
 * 100 ml tamari (ongeveer, gebruik i.p.v zout)
 * 200 ml water (ongeveer)
-* 150 g fijne sojabrokken
+* 120 g fijne sojabrokken (optioneel)
 * 2 blaadjes laurier
 * 5-tal takjes tijm
 * bakmargarine
@@ -32,5 +32,6 @@
 * Laat pruttelen zonder deksel (de alcohol mag helemaal uitdampen). Voeg eventueel wat water toe als het te droog wordt.
 * Bak intussen ook de rest van de champignons en voeg deze toe als de bourguinion bijna klaar is
 * De bourguinion is klaar als de groenten helemaal zacht zijn.
-* Voeg nu het tapiocazetmeel toe en roer goed.
+* Werk af met een scheutje olijfolie toe. 
+* Voeg het tapiocazetmeel (bindmiddel) toe en roer goed.
 * Voeg water toe tot de saus de gewenste consistentie krijgt. Voeg later, als je opnieuw opwarmt, eventueel nog water toe.
