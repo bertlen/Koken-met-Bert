@@ -19,7 +19,7 @@
 * 200 g suiker
 * 130 g kokospoeder
 * 150 g kokosolie
-* 260 g sojamelk
+* 240 g sojamelk
 * 12 g tapiocazetmeel (of maiszetmeel)
 * 1 el appelazijn
 * 1 tl natriumbicarbonaat
