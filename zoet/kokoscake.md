@@ -8,10 +8,10 @@
 * 100 g kokosolie
 * 220 g sojamelk
 * 12 g tapiocazetmeel (of maïszetmeel)
-* 1 el appelazijn
 * 1 tl natriumbicarbonaat
+* 1 el appelazijn (apart van de natriumbicarbonaat toevoegen!)
 * snuifje zwart zout
-* 40-50 minuten op 170 graden (tot de prikker er droog uitkomt!)
+* 40-50 minuten op 170 graden (tot de prikker er droog uitkomt)
 
 ## Als vulling (op taartbodem)
 
