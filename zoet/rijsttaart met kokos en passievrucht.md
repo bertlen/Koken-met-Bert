@@ -10,7 +10,7 @@
     * Suiker naar smaak
 
 * Coulis
-    * 250 g passievrucht (diepvries)
+    * 250-300 g passievrucht (diepvries)
     * 1 g agar agar (=1/2 tl)
     * Scheutje agavesiroop of ander zoetmiddel
 
