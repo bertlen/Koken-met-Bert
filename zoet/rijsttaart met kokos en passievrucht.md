@@ -1,6 +1,6 @@
 # Kokosrijsttaart met passievrucht
 
-## Ingrediénten
+## Ingrediënten
 
 * Rijstpap
     * 250 g dessertrijst
@@ -21,4 +21,4 @@
 * Maak de rijstpap
 * Vul de taartbodem en bak volgens aanwijzing op de verpakking
 * Laat de taart afkoeken en maak intussen de coulis.
-* Giet de coulis over de afgekoelde taart en laat stollen (liefst zo snel mogelijk, voordat de teveel uitloopt, daarom op afgekoelde taart)
+* Giet de coulis over de afgekoelde taart en laat stollen (liefst zo snel mogelijk, voor er te veel uitloopt, daarom op afgekoelde taart)
