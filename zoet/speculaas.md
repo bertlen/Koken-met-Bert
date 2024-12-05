@@ -11,7 +11,7 @@
 
 * 350g roggebloem
 * 175g sojaboter (80 % vet)
-* 150 g bruine suiker
+* 200 g bruine suiker
 * ½ tl zout
 * 1 el speculaaskruiden (10 gram)
 * ½ tl natriumbicarbonaat
