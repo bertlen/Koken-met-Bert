@@ -20,5 +20,5 @@
   4. Mix de rode biet met de sojamelk en azijn (in de blender als je die hebt).
   5. Meng nu alles tot een glad deeg. Zet er eventueel de staafmixer om als er nog klontertjes zijn (kan al eens gebeuren met matcha-poeder).
   6. Breng over in een (siliconen) bakvorm.
-  7. Bak 30-40 minuten op 180 &deg;C. Prik om gaarheid te testen.
+  7. Bak 30-40 minuten op 170 &deg;C (niet te bruin). Prik om gaarheid te testen.
   8. Laat eerst afkoelen en ontvorm dan. 
