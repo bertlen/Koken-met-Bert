@@ -1,6 +1,9 @@
 # Suikerwafels
 
 ## Ingrediënten
+
+Voor ongeveer 20 grote wafels
+
 | **Vieruurtje**            | **Avondmaal**               |
 |---------------------------|-----------------------------|
 | 1 kg bloem                | 1 kg volkoren tarwemeel     |
