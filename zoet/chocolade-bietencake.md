@@ -5,15 +5,15 @@
 
 ## Ingrediënten
 
-- 225 g bloem
-- 16 g tapiocameel
-- 225 g suiker
-- 100 g gegaarde rode biet
-- 250 g sojamelk
-- 60 g cacaopoeder
-- 100 g margarine
-- 1 tl natriumbicarbonaat\*
-- 1 el balsamico-azijn\*
+- 360 g bloem
+- 24 g tapiocameel
+- 360 g suiker
+- 150 g gegaarde rode biet
+- 400 g sojamelk
+- 90 g cacaopoeder
+- 150 g margarine
+- 1 tl natriumbicarbonaat
+- 1 el balsamico-azijn
 
 ## Bereiding
   1. Meng de cacao onder de suiker, met zo min mogelijk klontertjes.
