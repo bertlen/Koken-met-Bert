@@ -6,8 +6,9 @@
     * 250 g dessertrijst
     * 400 ml kokosroom
     * 800 ml water
-    * 2 zakjes vanillesuiker
-    * Suiker naar smaak
+    * enkele druppels vanillearoma
+    * snuifje zout
+    * 150 g suiker
 
 * Coulis
     * 250-300 g passievrucht (diepvries)
