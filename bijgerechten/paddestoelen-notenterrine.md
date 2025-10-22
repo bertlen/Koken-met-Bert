@@ -5,11 +5,12 @@
 - 450 g bospaddestoelen 
 - 6 sjalotten
 - 3 tenen look
-- kokosolie
-- truffelolie
 - 180 g walnoten
 - 150 g zijdetofu
 - 2 g agar-agar 
+- 1 el madeira of sherry
+- kokosolie
+- truffelolie
 - peper en zout
 
 ## Bereiding
