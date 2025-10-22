@@ -7,14 +7,13 @@
 - 3 tenen look
 - kokosolie
 - truffelolie
-- 120 g walnoten
-- 90 g cashewnoten
+- 180 g walnoten
+- 150 g zijdetofu
 - 2 g agar-agar 
 - peper en zout
 
 ## Bereiding
 
-* Cashewnoten minstens 10 minuten laten weken in heet water, daarna afgieten
 * Sjalotten en paddestoelen bakken in kokosolie
 * Walnoten kort roosteren in pan 
 * Alles in de blender, op smaak brengen met truffelolie, peper en zout 
