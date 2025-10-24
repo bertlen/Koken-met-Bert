@@ -6,9 +6,9 @@
 - 6 sjalotten
 - 3 tenen look
 - 180 g walnoten
-- 200 g zijdetofu
+- 300 g zijdetofu
 - 2 g agar-agar 
-- 1 el madeira of sherry
+- 2 el madeira of droge sherry
 - kokosolie
 - truffelolie
 - peper en zout
@@ -18,4 +18,4 @@
 * Sjalotten en paddestoelen bakken in kokosolie
 * Walnoten kort roosteren in pan 
 * Alles in de blender, op smaak brengen met truffelolie, peper en zout 
-* In terrineschaal of bakvorm 20 minuten in de oven op 165 graden
+* In terrineschaal of bakvorm 20 minuten in de oven op 170 graden
