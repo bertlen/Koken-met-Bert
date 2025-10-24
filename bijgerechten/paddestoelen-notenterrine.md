@@ -6,7 +6,7 @@
 - 6 sjalotten
 - 3 tenen look
 - 180 g walnoten
-- 150 g zijdetofu
+- 200 g zijdetofu
 - 2 g agar-agar 
 - 1 el madeira of sherry
 - kokosolie
