@@ -9,7 +9,7 @@
     * 1 l haverroom, vetgehalte > 10%
   * 100 g suiker
   * 12 g oploskoffie
-  * 4 g agar agar
+  * 4 g agar-agar (2 tl)
 
 ## Bereiding
 

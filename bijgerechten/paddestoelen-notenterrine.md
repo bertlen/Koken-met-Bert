@@ -7,7 +7,7 @@
 - 3 tenen look
 - 180 g walnoten
 - 300 g zijdetofu
-- 2 g agar-agar 
+- 2 g agar-agar  (1 tl)
 - 2 el madeira of droge sherry
 - kokosolie
 - truffelolie
