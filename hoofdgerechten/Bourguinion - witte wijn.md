@@ -1,4 +1,4 @@
-# Bourguinion anders 
+# Bourguinion met Pastinaak en Witte Wijn
 
 ## Ingrediënten
 
