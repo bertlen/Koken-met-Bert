@@ -2,7 +2,7 @@
 
 ## Ingrediënten
 
-* 500 g bruine linzen
+* 500 g bruine linzen of Du Puy linzen
 * 4 tenen look
 * 4 stelen selder
 * 4 uien
