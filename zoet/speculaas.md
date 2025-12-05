@@ -5,12 +5,12 @@
 
 *We gebruiken roggemeel voor een brosser koekje, volgens een oude traditie. Maak het deeg een dag op voorhand om de specerijen goed te laten intrekken.*  
 
-*Smaak en structuur verbeteren met rusten, dus nog enkele wachten met eten!*
+*Smaak en structuur verbeteren met rusten, dus nog enkele dagen wachten met eten!*
 
 ## Ingrediënten
 
-* 350g roggebloem
-* 175g sojaboter (80 % vet)
+* 350 g roggebloem
+* 175 g sojaboter (80 % vet)
 * 200 g bruine suiker
 * ½ tl zout
 * 1 el speculaaskruiden (10 gram)
