@@ -4,8 +4,8 @@
 
 # ingrediënten
 
-- 300 g bloem
-- 250 g suiker
+- 340 g bloem
+- 300 g suiker
 - 200 g margarine
 - 300 g zijdetofu
 - 8 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
