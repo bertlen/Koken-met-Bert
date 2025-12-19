@@ -4,11 +4,11 @@
 
 # ingrediënten
 
-- 225 g bloem
-- 200 g suiker
-- 150 g margarine
-- 200 g sojamelk
-- 16 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
+- 300 g bloem
+- 250 g suiker
+- 200 g margarine
+- 300 g zijdetofu
+- 8 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
 - 1 el appelazijn
 - 1 tl natriumbicarbonaat
 - 30 - 40 minuten op 180 graden
