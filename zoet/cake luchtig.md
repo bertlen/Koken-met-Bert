@@ -1,20 +1,18 @@
-## Cake klassiek
 
-*Geïnspireerd op de klassieke 4/4 cake, van de natte/vettige soort*
+# Cake luchtig
+*Geînspireerd op recept van Leonie, met zijdetofu en iets meer margarine. Licht en luchting, ook te gebruiken als biscuit*
 
-# ingrediënten
+## Ingrediënten
 
-- 340 g bloem
+- 360 g bloem
 - 300 g suiker
-- 200 g margarine
-- 300 g zijdetofu
-- 10 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
-- 1 el appelazijn
+- 360 g sojamelk (of zijdetofu)
+- 120 g margarine
 - 1 tl natriumbicarbonaat
 
 
 ## Bereiding
-  1. Doe margarine met zijdetofu, margarine en suiker in een mengkom. 
+  1. Doe margarine met sojamelk, margarine en suiker in een mengkom. 
   2. Zet het geheel even in de microgolf tot het lauw is en de margarine goed vloeibaar blijft.
   3. Voeg de bloem, tapiocameel en natriumbicarbonaat toe en meng tot een glad beslag.
   4. Voeg ook de andere ingrediënten toe. 
