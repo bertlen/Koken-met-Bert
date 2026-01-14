@@ -1,21 +1,17 @@
-*Met dezelfde basis als in
- [paddestoelen-notenterrine](../bijgerechten/paddestoelen-notenterrine.md)*
-
 # Koffie-walnotenmousse
 
 ## Ingrediënten
 
 - 150 g walnoten
-- 100 g havermelk
-- 300 g zijdetofu
 - 150 g suiker
+- 300 g zijdetofu
+- 50 g havermelk
+- 50 g kokosolie
 - 6 g oploskoffie
-- 2 g agar-agar (1 tl)
 
 ## Bereiding
 
 * Walnoten kort roosteren in pan
-* Havermelk aan de kook brengen en agar-agar en koffie erin oplossen 
-* Zijdetofu ook even mee opwarmen in de havermelk
+* Zijdetofu, havermelk en kokosolie even opwarmen in de microgolf, zodat kokosolie goed vloeibaar blijft 
 * Alles in de blender
-* Laten stollen in (siliconen) vorm
+* Laten stollen in (siliconen) vorm of op een cake
