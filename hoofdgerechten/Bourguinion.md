@@ -3,6 +3,7 @@
 ## Ingrediënten (6 personen)
 
 * 3 sjalotten, gesnipperd
+* 2 stelen selder, in stukjes
 * 3 tenen look, gesnipperd
 * 4 wortels, in schijven
 * 4 kleine uien, in partjes (zoals een appelsien), of equivalent zilveruitjes
@@ -22,7 +23,7 @@
 ## Bereiding
 
 * Kook de sojabrokken in water en giet af
-* Stoof de sjalotten en uien aan in wat bakmargarine. 
+* Stoof de sjalotten, selder en uien aan in wat bakmargarine. 
 * Voeg ook de look toe. 
 * Laat alles mooi bruin worden
 * Voeg de rode wijn toe en week de bakresten op de bodem hiermee los (= deglaceren)
