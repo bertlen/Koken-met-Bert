@@ -61,7 +61,7 @@
   1. Meng suiker, bloem, kokospoeder, zout en gehakte amandelen.
   2. Kneed de margarine eronder met je handen. Blijf kneden tot je een egaal, korrelig deeg krijgt. Dit lukt het best als de margarine al op kamertemperatuur is.
   3. Verkruimel het deeg over een bakplaat.
-  4. Bak de crumble goudbruin in ongeveer 20 minuten op 165 &deg;C. Schep halverwege om voor een egaal resultaat.
+  4. Bak de crumble goudbruin in ongeveer 15 minuten op 165 &deg;C. Schep halverwege om voor een egaal resultaat.
   5. Laat afkoelen en bewaar de crumble in een luchtdichte bokaal.
 
 
