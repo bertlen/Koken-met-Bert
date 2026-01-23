@@ -11,7 +11,7 @@
 * 500 ml rode wijn
 * 100 ml tamari (ongeveer, gebruik i.p.v zout)
 * 200 ml water (ongeveer)
-* 120 g fijne sojabrokken (optioneel)
+* 120 g sojabrokken (optioneel)
 * 2 blaadjes laurier
 * 5-tal takjes tijm
 * bakmargarine
@@ -24,7 +24,7 @@
 * Kook de sojabrokken in water en giet af
 * Stoof de sjalotten en uien aan in wat bakmargarine. 
 * Voeg ook de look toe. 
-* Laat alles mooi bruin worden (maar niet aanbranden!) 
+* Laat alles mooi bruin worden
 * Voeg de rode wijn toe en week de bakresten op de bodem hiermee los (= deglaceren)
 * Voeg de wortels, de laurier, de tijm en de sojabrokken toe
 * Bak de shiitakes in bakmargarine in een aparte pan, deglaceer eventueel met wat water en voeg ook deze toe aan de bourguinion.
