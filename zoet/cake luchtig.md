@@ -9,7 +9,7 @@
 - 360 g sojamelk (of zijdetofu)
 - 120 g margarine
 - 1 tl natriumbicarbonaat
-
+- 1 el appelazijn
 
 ## Bereiding
   1. Doe margarine met sojamelk, margarine en suiker in een mengkom. 
