@@ -13,7 +13,7 @@
 * Coulis
     * 250-300 g passievrucht (diepvries)
     * 1 g agar agar (=1/2 tl)
-    * Scheutje agavesiroop of ander zoetmiddel
+    * enkele el suiker, naar smaak
 
 * Taartbodem: gist- of kruimeldeeg
 
@@ -24,5 +24,5 @@
 * Roer de suiker erdoor.
 * Vul de taartbodem met rijstpap en bak volgens aanwijzing op de verpakking.
 * Laat de taart afkoelen.
-* Warm de passievrucht op met agar agar en zoetmiddel. Laat kort doorkoken.
+* Warm de passievrucht op met agar agar en suiker. Laat kort doorkoken.
 * Giet de coulis over de afgekoelde taart en laat stollen.
