@@ -19,7 +19,10 @@
 
 ## Bereiding
 
-* Maak de rijstpap
-* Vul de taartbodem en bak volgens aanwijzing op de verpakking
-* Laat de taart afkoeken en maak intussen de coulis.
-* Giet de coulis over de afgekoelde taart en laat stollen (liefst zo snel mogelijk, voor er te veel uitloopt, daarom op afgekoelde taart)
+* Breng kokosroom, water, vanillearoma en zout aan de kook.
+* Voeg de rijst toe en laat op zacht vuur ongeveer 40 minuten garen. Naar het einde van de kooktijd: roer regelmatig om.
+* Roer de suiker erdoor.
+* Vul de taartbodem met rijstpap en bak volgens aanwijzing op de verpakking.
+* Laat de taart afkoelen.
+* Warm de passievrucht op met agar agar en zoetmiddel. Laat kort doorkoken.
+* Giet de coulis over de afgekoelde taart en laat stollen.
