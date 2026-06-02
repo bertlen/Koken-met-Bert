@@ -6,7 +6,7 @@ operator: Demaerschalk Melanie
 
 -   230 g bloem
 
--   8 g tapiocameel
+-   16 g tapiocameel
 
 -   200 g suiker
 
