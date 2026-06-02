@@ -4,7 +4,7 @@ operator: Demaerschalk Melanie
 
 **Frangipane-cake met rabarber**
 
--   200 g bloem
+-   230 g bloem
 
 -   8 g tapiocameel
 
