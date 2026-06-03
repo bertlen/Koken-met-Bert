@@ -4,22 +4,25 @@ operator: Demaerschalk Melanie
 
 **Frangipane-cake met rabarber**
 
--   230 g bloem
+-   350 g bloem
 
--   16 g tapiocameel
+-   20 g tapiocameel
 
--   200 g suiker
+-   300 g suiker
 
--   150 g amandelpoeder
+-   225 g amandelpoeder
 
--   150 g margarine
+-   180 g kokosolue
 
--   200 g sojamelk
+-   300 g sojamelk
 
--   2 tl appelazijn
+-   3 tl appelazijn
 
 -   1 tl natriumbicarbonaat
 
--   2 stengels rabarber
+-   3-4 stengels rabarber
+
+-   snuifje zwart zout
+- 
 
 -   40 minuten op 180 graden
