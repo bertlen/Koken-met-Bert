@@ -12,7 +12,7 @@ operator: Demaerschalk Melanie
 
 -   225 g amandelpoeder
 
--   180 g kokosolue
+-   180 g kokosolie
 
 -   300 g sojamelk
 
@@ -23,6 +23,5 @@ operator: Demaerschalk Melanie
 -   3-4 stengels rabarber
 
 -   snuifje zwart zout
-- 
 
 -   40 minuten op 180 graden
