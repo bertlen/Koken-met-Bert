@@ -1,6 +1,6 @@
-## Sourdough bread&nbsp;&ndash; Method
+## Sourdough bread - Method
 
-### Basic method - convenient brick-shape loaf
+### Basic method - convenient brick shape
 
 - Scoop the starter into a mixing bowl, keeping a tiny bit behind.
 
@@ -50,7 +50,7 @@
 
 <div class="pagebreak"></div>
 
-## Sourdough bread&nbsp;&ndash; Recipes
+## Sourdough bread - Recipes
 
 <table>
 <colgroup>
@@ -110,17 +110,19 @@
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: right;">&nbsp;</td>
 </tr>
-<tr class="spacer-row">
-<td>&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: right;">&nbsp;</td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td style="text-align: center;"><strong>Mixed wheat (or spelt)&nbsp;</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>
@@ -180,17 +182,19 @@
 <tr>
 <td colspan="6"><em>Instead of a mix, you can also use partly refined flour, e.g. T85 flour.</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em>&nbsp;</em></td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>White wheat (or spelt)</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>
@@ -239,17 +243,19 @@
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: right;">&nbsp;</td>
 </tr>
-<tr class="spacer-row">
-<td>&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: right;">&nbsp;</td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>&nbsp;Rye</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>
@@ -348,13 +354,20 @@ flour</strong></td>
 <td colspan="2" style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
-<tr class="spacer-row">
-<td><em>&nbsp;</em></td>
-<td style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>&nbsp;Almond-fruit bread</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>
@@ -409,13 +422,20 @@ flour</strong></td>
 <tr>
 <td colspan="7"><em>** Adjusted temperature and baking time to prevent the fruit from burning.</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em>&nbsp;</em></td>
-<td style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>&nbsp;Rye raisin-walnut bread</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>
@@ -452,13 +472,20 @@ flour</strong></td>
 <tr>
 <td colspan="7"><em>** Adjusted temperature and baking time to prevent the fruit from burning.</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em>&nbsp;</em></td>
-<td style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td colspan="2" style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>&nbsp;Seed bread</strong></td>
 <td style="text-align: center;"><strong>Small</strong></td>

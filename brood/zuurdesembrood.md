@@ -1,6 +1,6 @@
-## Zuurdesembrood&nbsp;- Werkwijze
+## Zuurdesembrood - Werkwijze
 
-### Basis – handige baksteen-vorm
+### Basis - handige baksteen-vorm
 
 - Schep de desem in een mengkom, en houd een mini-beetje over.
 
@@ -26,7 +26,7 @@
 
 - Haal het brood uit de oven, ontvorm onmiddellijk en laat omgekeerd afkoelen.
 
-### Optioneel – een meer artisanale vorm
+### Optioneel - een meer artisanale vorm
 
 - Laat het deeg fermenteren in de mengkom, met deksel tegen uitdrogen.
 
@@ -50,7 +50,7 @@
 
 <div class="pagebreak"></div>
 
-## Zuurdesembrood&nbsp;- Recepten
+## Zuurdesembrood - Recepten
 
 <table>
 <colgroup>
@@ -110,17 +110,19 @@
 <td style="text-align: center;"> </td>
 <td style="text-align: right;"> </td>
 </tr>
-<tr class="spacer-row">
-<td> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: right;"> </td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td style="text-align: center;"><strong>Gemengd Tarwe (of Spelt) </strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
@@ -180,17 +182,19 @@
 <tr>
 <td colspan="6"><em>In plaats van een mengeling, kan je ook deels geraffineerd meel gebruiken, vb T85 meel.</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em> </em></td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong>Wit Tarwe (of Spelt)</strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
@@ -239,17 +243,19 @@
 <td style="text-align: center;"> </td>
 <td style="text-align: right;"> </td>
 </tr>
-<tr class="spacer-row">
-<td> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: right;"> </td>
-</tr>
-<tr class="spacer-row">
-<td colspan="6"></td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong> Rogge</strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
@@ -348,13 +354,20 @@ meel</strong></td>
 <td colspan="2" style="text-align: center;"> </td>
 <td style="text-align: center;"> </td>
 </tr>
-<tr class="spacer-row">
-<td><em> </em></td>
-<td style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong> Amandel-Vruchtenbrood</strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
@@ -409,13 +422,20 @@ meel</strong></td>
 <tr>
 <td colspan="7"><em>** Aangepaste temperatuur en baktijd om verbranding van de vruchten tegen te gaan</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em> </em></td>
-<td style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong> Roggeverdommeke</strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
@@ -452,13 +472,20 @@ meel</strong></td>
 <tr>
 <td colspan="7"><em>**Aangepaste temperatuur en baktijd om verbranding van de vruchten tegen te gaan</em></td>
 </tr>
-<tr class="spacer-row">
-<td><em> </em></td>
-<td style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td colspan="2" style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 13%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 2%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
 <tr class="section-row">
 <td><strong> Zadenbrood</strong></td>
 <td style="text-align: center;"><strong>Klein</strong></td>
