@@ -1,19 +1,22 @@
 
 # Cake luchtig
-*Geînspireerd op recept van Leonie, met zijdetofu en iets meer margarine. Licht en luchting, ook te gebruiken als biscuit*
+*Recept van Proveg*
 
 ## Ingrediënten
 
-- 360 g bloem
+- 300 g bloem
 - 300 g suiker
-- 360 g sojamelk (of zijdetofu)
-- 120 g margarine
+- 500 g sojamelk
+- 180 g kokosolie
+- 30 g tapiocameel of maïzena
 - 1 tl natriumbicarbonaat
 - 1 el appelazijn
+- 1/2 tl zwart zout
+- vanille-aroma
 
 ## Bereiding
-  1. Doe margarine met sojamelk, margarine en suiker in een mengkom. 
-  2. Zet het geheel even in de microgolf tot het lauw is en de margarine goed vloeibaar blijft.
+  1. Doe kokosolie met sojamelk en suiker in een mengkom. 
+  2. Zet het geheel even in de microgolf tot het lauw is en de olie goed vloeibaar blijft.
   3. Voeg de bloem, tapiocameel en natriumbicarbonaat toe en meng tot een glad beslag.
   4. Voeg ook de andere ingrediënten toe. 
   5. Breng over in een (siliconen) bakvorm.
