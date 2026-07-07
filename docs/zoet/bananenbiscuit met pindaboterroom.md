@@ -6,7 +6,7 @@
 
 ## Ingrediënten
 
-* **Beslag**
+### Beslag
   * 120 g kokosolie
   * 150 g sojamelk (echt wel soja, geen haver- of rijstmelk)
   * 16 g tapiocazetmeel (of maïzena)
@@ -16,7 +16,8 @@
   * 225 g bloem
   * 1 tl natriumbicarbonaat (apart van het citroenzuur toevoegen)
   * enkele druppeltjes vanille-extract
-* **Pindaboterroom**
+
+### Pindaboterroom
   * 125 g bloemsuiker
   * 75 g plantaardige margarine (80% vet, vb. Alpro Bakken en Braden)
   * 75 g pindakaas
@@ -24,13 +25,14 @@
 
 ## Bereiding
 
-* **Beslag**
+### Beslag
   1. Smelt de kokosolie.
   2. Meng de kokosolie eerst met de suiker en daarna met de andere droge ingrediënten.
   3. Mix of blend de bananen met de sojamelk en het citroensap of de appelazijn.
   4. Voeg dit bij de rest van het deeg en meng goed.
   5. Bak 25-30 minuten op 180 &deg;C.
-* **Pindaboterroom**
+
+### Pindaboterroom
   1. Laat de margarine zacht worden, maar niet smelten.
   2. Meng de margarine onder de bloemsuiker en pindakaas.
   3. Klop wit en luchtig met de mixer of keukenrobot.

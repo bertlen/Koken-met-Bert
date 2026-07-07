@@ -1,0 +1,32 @@
+:root {
+  --bs-primary: #1f7a3d;
+  --bs-primary-rgb: 31, 122, 61;
+  --bs-link-color: #1f7a3d;
+  --bs-link-hover-color: #166534;
+}
+
+.bg-primary {
+  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity, 1)) !important;
+}
+
+.navbar {
+  background-color: #1f7a3d !important;
+  background-image: none !important;
+}
+
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-primary {
+  background-color: #1f7a3d !important;
+  background-image: none !important;
+  border-color: #166534 !important;
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: #eaf6ed;
+}

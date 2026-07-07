@@ -4,3 +4,6 @@ site_dir: site
 
 theme:
   name: mkdocs
+
+extra_css:
+  - assets/stylesheets/site.css
