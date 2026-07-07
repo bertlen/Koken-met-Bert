@@ -1,7 +1,7 @@
 # Structuren van Kokos met een Crème van Passievrucht
 *Als het eens echt feestelijk moet zijn!*
 
-![dessertbordje](images/kokos-passievrucht-dessert.jpg)
+![dessertbordje](../assets/images/kokos-passievrucht-dessert.jpg)
 
 ## Ingrediënten (15 bordjes)
 
