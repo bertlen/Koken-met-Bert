@@ -1,5 +1,7 @@
 ## Sourdough bread - Method
 
+[print-friendly version (pdf)](sourdough-bread.pdf)
+
 ### Basic method - convenient brick shape
 
 - Scoop the starter into a mixing bowl, keeping a tiny bit behind.

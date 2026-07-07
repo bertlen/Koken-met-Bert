@@ -1,5 +1,7 @@
 ## Zuurdesembrood - Werkwijze
 
+[printbare versie (pdf)](zuurdesembrood.pdf)
+
 ### Basis - handige baksteen-vorm
 
 - Schep de desem in een mengkom, en houd een mini-beetje over.
