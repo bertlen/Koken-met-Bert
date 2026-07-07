@@ -1,4 +1,3 @@
-
 # Chocolade-bietencake
 
 *versie 5.0, de ultieme versie? Heel licht en luchtig door gebruik van minder biet en minder margarine.*  
@@ -23,4 +22,4 @@
   5. Meng nu alles tot een glad deeg. Zet er eventueel de staafmixer om als er nog klontertjes zijn (kan al eens gebeuren met cacao-poeder).
   6. Breng over in een (siliconen) bakvorm.
   7. Bak 30-40 minuten op 180 &deg;C. Prik om gaarheid te testen.
-  8. Laat eerst afkoelen en ontvorm dan. 
+  8. Laat eerst afkoelen en ontvorm dan.

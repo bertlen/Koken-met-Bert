@@ -1,4 +1,4 @@
-## Cake klassiek
+# ## Cake klassiek
 
 *Geïnspireerd op de klassieke 4/4 cake, van de natte/vettige soort*
 
@@ -12,7 +12,6 @@
 - 1 el appelazijn
 - 1 tl natriumbicarbonaat
 
-
 ## Bereiding
   1. Doe margarine met zijdetofu, margarine en suiker in een mengkom. 
   2. Zet het geheel even in de microgolf tot het lauw is en de margarine goed vloeibaar blijft.
@@ -20,4 +19,4 @@
   4. Voeg ook de andere ingrediënten toe. 
   5. Breng over in een (siliconen) bakvorm.
   6. Bak 30-40 minuten op 180 &deg;C. Prik om gaarheid te testen.
-  7. Laat eerst afkoelen en ontvorm dan. 
+  7. Laat eerst afkoelen en ontvorm dan.

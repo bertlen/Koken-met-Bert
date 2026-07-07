@@ -1,10 +1,6 @@
----
-operator: Bert Lenaerts
----
+# POMPOENCURRY (WEEKEND BOTANICO)
 
-**`POMPOENCURRY ``(``WEEKEND ``BOTANICO``)`**
-
-**`Ingredi``ë``nten`**
+## Ingrediënten
 
     - 3 kleine kastanjepompoenen (1-2 grote kan natuurlijk ook)
 
@@ -28,7 +24,7 @@ operator: Bert Lenaerts
 
     - zout/bouillonblokjes
 
-**`Bereiding`**
+## Bereiding
 
     Was de pompoenen en gaar ze in hun geheel in de schil in de oven. Schil de aardappelen en snijd in blokjes (2.5 cm).
 

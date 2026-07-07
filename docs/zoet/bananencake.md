@@ -17,5 +17,3 @@
 - Mix/blend de bananen met de sojamelk en het citroensap/appelazijn
 - Voeg alles samen en meng goed 
 - Bak 25-30 minuten op 180 graden
-
-

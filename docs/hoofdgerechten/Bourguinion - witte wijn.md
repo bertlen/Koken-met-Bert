@@ -11,7 +11,6 @@
 * quorngehakt / bruine linzen / sojabrokken
 * (ook champignons?) 
 
-
 ## Bereiding
 
 Zie [Bourguinon](Bourguinion.md)

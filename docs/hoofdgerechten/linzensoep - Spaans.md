@@ -18,6 +18,4 @@
 * olijfolie
 * zout en peper
 
-
 ## Bereiding
-

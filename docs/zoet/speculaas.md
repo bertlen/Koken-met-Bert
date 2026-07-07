@@ -1,6 +1,5 @@
 # Speculaas Traditioneel
 
-
 *Naar <https://eetpraat.nl/wordpress/index.php/speculaaskoekjes> en <https://www.nederlands-dis.nl/uncategorized/lokaal/sinterklaas-speculaas/>.*
 
 *We gebruiken roggemeel voor een brosser koekje, volgens een oude traditie. Maak het deeg een dag op voorhand om de specerijen goed te laten intrekken.*  
@@ -16,7 +15,6 @@
 * 1 el speculaaskruiden (10 gram)
 * 3 el sojamelk (maximum!)
 * amandelen, hele of schilfers (garnituur, optioneel)
-
 
 ## Bereiding
 

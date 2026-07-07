@@ -15,8 +15,6 @@
   *	1 el appelazijn
   *	1 tl natriumbicarbonaat
   * snuifje zwart zout (eiersmaak, niet echt nodig)
-
-
 * **Crumble**
   * 100 g roggemeel (tarwebloem kan ook)
   * 100 g (kinnekes)suiker
@@ -24,8 +22,6 @@
   * 50 g gehakte amandelen
   * 75 g margarine (> 70% vet, bv. Alpro Bakken en Braden)
   * snuifje zout
-
-
 * **Panna cotta**
   * 800 ml kokosroom (2 blikken)
   * 100 ml water (om de blikken uit te spoelen)
@@ -38,8 +34,6 @@
   * 100 g margarine (> 70% vet, bv. Alpro Bakken en Braden)
   * 75 g suiker
   * 1 tl xanthaangom
-
-
 * **Garnituren**
   * yoghurt van kokosroom (bijvoorbeeld [Delhaize](https://www.delhaize.be/nl/shop/Bewuste-voeding/Zero-lactose/Yoghurt-en-Dessert/Yoghourt-Soja-Naturel-Ongezoet/p/F2019122700049020000))
   * kokospoeder
@@ -55,24 +49,18 @@
   5. Vul ongeveer 15 (siliconen) cupcakevormpjes tot 3/4 met het deeg.
   6. Bak 20-25 minuten op 180 &deg;C. Prik om gaarheid te testen.
   7. Laat afkoelen en ontvorm. Bewaar in een luchtdichte doos
-
-
 * **Crumble**
   1. Meng suiker, bloem, kokospoeder, zout en gehakte amandelen.
   2. Kneed de margarine eronder met je handen. Blijf kneden tot je een egaal, korrelig deeg krijgt. Dit lukt het best als de margarine al op kamertemperatuur is.
   3. Verkruimel het deeg over een bakplaat.
   4. Bak de crumble goudbruin in ongeveer 15 minuten op 165 &deg;C. Schep halverwege om voor een egaal resultaat.
   5. Laat afkoelen en bewaar de crumble in een luchtdichte bokaal.
-
-
 * **Panna cotta**
   1. Giet de kokosroom in een pannetje. Spoel de blikken uit met het water en gebruik dit ook.
   2. Voeg de suiker en de agar agar toe. 
   3. Breng aan de kook en laat enkele minuten doorkoken. Klop/roer intussen goed met een garde.
   4. Vul ongeveer 15 (siliconen) cupcakevormpjes tot de rand en laat afkoelen.
   5. Bewaar in de frigo. 
-
-
 * **Crème van passievrucht**
   1. Ontdooi de passievrucht in een (glazen) mengbeker
   2. Voeg de margarine en suiker toe. 

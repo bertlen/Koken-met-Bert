@@ -17,6 +17,3 @@
   * Voeg suiker, oploskoffie en agar agar toe.
   * Breng aan de kook al roerend met een klopper. Laat even doorkoken.
   * Giet in glaasjes/vormpjes en laat afkoelen.
-
-
- 

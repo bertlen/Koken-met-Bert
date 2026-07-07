@@ -9,12 +9,10 @@
     * enkele druppels vanillearoma
     * snuifje zout
     * 150 g suiker
-
 * Coulis
     * 250-300 g passievrucht (diepvries)
     * 1 g agar agar (=1/2 tl)
     * enkele el suiker, naar smaak
-
 * Taartbodem: gist- of kruimeldeeg
 
 ## Bereiding

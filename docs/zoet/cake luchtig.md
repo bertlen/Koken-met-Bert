@@ -1,4 +1,3 @@
-
 # Cake luchtig
 *Recept van Proveg*
 
@@ -21,4 +20,4 @@
   4. Voeg ook de andere ingrediënten toe. 
   5. Breng over in een (siliconen) bakvorm.
   6. Bak 30-40 minuten op 180 &deg;C. Prik om gaarheid te testen.
-  7. Laat eerst afkoelen en ontvorm dan. 
+  7. Laat eerst afkoelen en ontvorm dan.

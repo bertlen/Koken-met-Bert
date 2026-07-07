@@ -16,7 +16,6 @@ Voor ongeveer 20 grote wafels
 | 20 g zout                 | 20 g zout                  |
 | 250 g parelsuiker         | 400 g rozijnen/abrikozenstukjes |
 
-
 ## Bereiding
 
 * Laat de boter zacht worden op kamertemperatuur en meng er de suiker en het vanille-extract onder.
