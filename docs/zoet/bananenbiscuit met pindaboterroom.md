@@ -1,67 +1,51 @@
----
-title: Bananenbiscuit met Pindaboterroom
----
+# Bananenbiscuit met Pindaboterroom
 
-**Voor het beslag**
+| | |
+|---|---|
+| ![Bananenbiscuit met pindaboterroom](../assets/images/bananenbiscuit-pinda-heel.jpg) | ![Stuk bananenbiscuit met pindaboterroom](../assets/images/bananenbiscuit-pinda-stuk.jpg) |
 
--   120 g kokosolie
+## Ingrediënten
 
--   150 g sojamelk (echt wel soja, geen haver- of rijstmelk)
+* **Beslag**
+  * 120 g kokosolie
+  * 150 g sojamelk (echt wel soja, geen haver- of rijstmelk)
+  * 16 g tapiocazetmeel (of maïzena)
+  * 2 grote, rijpe bananen (225 g)
+  * sap van een halve citroen (of 1 el appelazijn)
+  * 100 g suiker
+  * 225 g bloem
+  * 1 tl natriumbicarbonaat (apart van het citroenzuur toevoegen)
+  * enkele druppeltjes vanille-extract
 
--   16 g tapiocazetmeel (of maïzena)
+* **Pindaboterroom**
+  * 125 g bloemsuiker
+  * 75 g plantaardige margarine (80% vet, vb. Alpro Bakken en Braden)
+  * 75 g pindakaas
+  * 20 g sojamelk
 
--   2 grote, rijpe bananen (225 g)
+## Bereiding
 
--   sap van een halve citroen (of 1 el appelazijn)
+* **Beslag**
+  1. Smelt de kokosolie.
+  2. Meng de kokosolie eerst met de suiker en daarna met de andere droge ingrediënten.
+  3. Mix of blend de bananen met de sojamelk en het citroensap of de appelazijn.
+  4. Voeg dit bij de rest van het deeg en meng goed.
+  5. Bak 25-30 minuten op 180 &deg;C.
 
--   100 g suiker
+* **Pindaboterroom**
+  1. Laat de margarine zacht worden, maar niet smelten.
+  2. Meng de margarine onder de bloemsuiker en pindakaas.
+  3. Klop wit en luchtig met de mixer of keukenrobot.
+  4. Voeg een kleine hoeveelheid sojamelk toe tot je de gepaste smeuïgheid krijgt.
 
--   225 g bloem
+## Garneren
 
--   1 tl natriumbicarbonaat (apart van de het citroenzuur toevoegen)
+* Laat de taart afkoelen alvorens hem te ontvormen.
+* Snijd hem in twee en smeer de pindaboterroom ertussen.
+* Alternatief: smeer de pindaboterroom ertussen en erbovenop. Werk er ook de zijkanten mee af.
+* Werk de bovenkant af met poedersuiker.
 
--   enkele druppeltjes vanille-extract
+Zie foto bovenaan:
 
-> Smelt de kokosolie, meng deze eerst met de suiker en dan de andere
-> droge ingrediënten. Mix/blend de bananen met de sojamelk en het
-> citroensap/appelazijn. Voeg deze bij de rest van het deeg en meng
-> goed. Bak 25-30 minuten op 180 graden.
-
-**Voor de pindaboterroom**
-
--   125 g bloemsuiker
-
--   75 g plantaardige margarine (80% vet, vb. alpro bakken en braden)
-
--   75 g pindakaas
-
--   20 g sojamelk
-
-> Margarine zacht laten worden (niet smelten), en mengen onder de
-> bloemsuiker en pindakaas. Wit en luchtig kloppen met de
-> mixer/keukenrobot. Kleine hoeveelheid sojamelk toevoegen tot je de
-> gepaste smeuïgheid krijgt.
-
-**Garneren**
-
--   Laat de taart afkoelen alvorens hem te ontvormen.
-
--   Snijd hem in twee, en smeer de pindaboterroom ertussen.
-
-    -   Alternatief: smeer de pindaboterroom ertussen én er bovenop.
-        Werk er ook de zijkanten mee af
-
--   Werk de bovenkant af met poedersuiker.
-
--   Op de foto:
-
-    -   recept x 2: drie lagen, uit twee cakes
-
-    -   Alternatieve afwerking met een ganache van zwarte chocolade (met
-        een beetje kokosroom) en daarbovenop gehakte, geroosterde
-        hazelnoten.
-
-![](media/image1.jpeg){width="2.908333333333333in" height="2.18125in"}
-![A picture containing piece, chocolate, dessert, slice Description
-automatically generated](media/image2.jpeg){width="2.186427165354331in"
-height="2.2898665791776027in"}
+1. Recept x 2: drie lagen, uit twee cakes.
+2. Alternatieve afwerking met een ganache van zwarte chocolade (met een beetje kokosroom) en daarbovenop gehakte, geroosterde hazelnoten.

@@ -1,8 +1,5 @@
 **Ethiopische linzenstoofpot**
 
-![http://www.pepperandstew.co.uk/wp-content/themes/pepper/timthumb.php?src=http://www.pepperandstew.co.uk/wp-content/uploads/2013/10/misir-wot-0011.jpg&w=585](media/image1.jpeg){width="3.8593755468066493in"
-height="2.5729166666666665in"}
-
 -   4 sjalotten
 
 -   teentje look (optioneel)

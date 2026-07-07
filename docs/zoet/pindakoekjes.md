@@ -2,9 +2,7 @@
 subtitle: Speciaal voor Babette, die zo graag haverpap met pindakaas
   lust! Zonder suiker, boter of witte bloem, zodat je ze zo vaak kan
   maken en eten als je maar wil!
-title: "![A stack of chocolate chip cookies Description automatically
-  generated with medium confidence](media/image1.jpeg){width=\"8.25in\"
-  height=\"4.639583333333333in\"}Babette's Bananen-Pindakoekjes"
+title: "Babette's Bananen-Pindakoekjes"
 ---
 
 **Ingrediënten (voor 1 bakplaat, 12-16 koekjes)**

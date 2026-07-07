@@ -1,8 +1,5 @@
 **Linzensoep uit het Midden-Oosten**
 
-![](media/image1.jpeg){width="3.8491994750656167in"
-height="3.4160990813648295in"}
-
 -   olijfolie
 
 -   1-2 uien
