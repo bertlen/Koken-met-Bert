@@ -7,7 +7,7 @@
 - 360 g suiker
 - 400 g sojamelk (of zijdetofu)
 - zeste en sap van 1 citroen
-- 150 g margarine
+- 150 g kokosolie
 - 1 tl natriumbicarbonaat
 - 2 el maanzaad (optioneel)
 
