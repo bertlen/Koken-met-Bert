@@ -4,6 +4,7 @@ site_dir: site
 
 theme:
   name: mkdocs
+  locale: nl
 
 extra_css:
   - assets/stylesheets/site.css
