@@ -1,5 +1,6 @@
-# Cake luchtig
-*Recept van Proveg*
+Geslaagd experiment van Irene, gebaseerd [dit recept van ProVeg](https://proveg.org/nl/recepten/vegan-cupcakes-basisrecept/)
+
+# Cake - basis
 
 ## Ingrediënten
 
