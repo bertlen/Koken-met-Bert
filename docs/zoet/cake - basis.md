@@ -1,4 +1,4 @@
-Geslaagd experiment van Irene, gebaseerd [dit recept van ProVeg](https://proveg.org/nl/recepten/vegan-cupcakes-basisrecept/)
+Geslaagd experiment van Irene, gebaseerd op [dit recept van ProVeg](https://proveg.org/nl/recepten/vegan-cupcakes-basisrecept/)
 
 # Cake - basis
 
