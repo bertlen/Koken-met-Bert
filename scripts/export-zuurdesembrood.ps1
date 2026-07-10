@@ -7,7 +7,7 @@ param(
 $ErrorActionPreference = "Stop"
 
 $root = Resolve-Path (Join-Path $PSScriptRoot "..")
-$cssPath = Resolve-Path (Join-Path $root "brood\zuurdesembrood.print.css")
+$cssPath = Resolve-Path (Join-Path $root "docs\brood\zuurdesembrood.print.css")
 
 if ($Source) {
     if (-not $Output) {
@@ -24,13 +24,13 @@ if ($Source) {
 } else {
     $exports = @(
         @{
-            Source = "brood\zuurdesembrood.md"
-            Output = "brood\zuurdesembrood.pdf"
+            Source = "docs\brood\zuurdesembrood.md"
+            Output = "docs\brood\zuurdesembrood.pdf"
             PageTitle = "Zuurdesembrood"
         },
         @{
-            Source = "brood\sourdough-bread.md"
-            Output = "brood\sourdough-bread.pdf"
+            Source = "docs\brood\sourdough-bread.md"
+            Output = "docs\brood\sourdough-bread.pdf"
             PageTitle = "Sourdough bread"
         }
     )
@@ -52,6 +52,7 @@ foreach ($export in $exports) {
     $sourcePath = Resolve-Path (Join-Path $root $export.Source)
     $outputPath = Join-Path $root $export.Output
     $pdfPath = [System.IO.Path]::GetFullPath($outputPath)
+    $tempMarkdownPath = Join-Path ([System.IO.Path]::GetTempPath()) ("zuurdesembrood-" + [System.Guid]::NewGuid() + ".md")
 
     $outputDir = Split-Path -Parent $pdfPath
     if (-not (Test-Path $outputDir)) {
@@ -64,7 +65,11 @@ foreach ($export in $exports) {
         $htmlPath = Join-Path ([System.IO.Path]::GetTempPath()) ("zuurdesembrood-" + [System.Guid]::NewGuid() + ".html")
     }
 
-    pandoc $sourcePath `
+    Get-Content -LiteralPath $sourcePath -Encoding UTF8 |
+        Where-Object { $_ -notmatch '^\s*\[(printbare versie|print-friendly version)(?: \(pdf\))?\]\([^)]+\.pdf\)\s*$' } |
+        Set-Content -LiteralPath $tempMarkdownPath -Encoding UTF8
+
+    pandoc $tempMarkdownPath `
         --standalone `
         --from gfm+footnotes `
         --to html5 `
@@ -97,6 +102,10 @@ foreach ($export in $exports) {
 
         if (-not $KeepHtml -and (Test-Path $htmlPath)) {
             Remove-Item -LiteralPath $htmlPath
+        }
+
+        if (Test-Path $tempMarkdownPath) {
+            Remove-Item -LiteralPath $tempMarkdownPath
         }
     }
 
