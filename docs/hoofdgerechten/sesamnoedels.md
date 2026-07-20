@@ -1,9 +1,8 @@
-# SESAMNOEDELS MET BROCCOLI
+# SESAMNOEDELS
 
 ## Ingrediënten (2 personen)
 
-* 500 g broccoli
-* 250 g pasta
+* 375 g (linzen)pasta
 * 3 el sesamolie
 * 3 ½ el sojasaus
 * 2 el Chinese rijstazijn
@@ -13,22 +12,17 @@
 * 2 tenen look, geperst
 * Chilipoeder, optioneel
 * Ongeveer 150 ml water
-* Afwerking: wat gehakte pinda's of sesamzaadjes
+* Combineer met:
+    * broccoli
+    * tofu in blokjes, gebakken
+    * komkommer, in slierten met dunschiller,
+    * kimchi, gehakte pinda's, sesamzaadjes
+    * ...
 
 ## Bereiding
 
-1. Breng een grote pot zout water aan de kook. Snijd de broccoli in
-    roosjes, schil de steel en snijd in schijfjes. Kook de broccoli gaar
-    in het water. Broccoli heeft een dikke 10 minuten nodig om te garen.
-    Voeg de pasta op het juiste moment toe, zodat die samen gaar is met
-    de broccoli.
+1. Voeg de sesampasta, pindakaas, sesamolie, sojasaus, rijstazijn,
+    look, gember en chilipoeder samen in een mengkom. Voeg  water toe tot je een smeuïge saus verkrijgt (ongeveer 150 ml). De saus droogt snel op in combinatie met de warme pasta, dus gebruik liever te veel  dan te weinig water.
 
-2. Voeg de sesampasta, pindakaas, sesamolie, sojasaus, rijstazijn,
-    look, gember en chilipoeder samen in een mengkom. Voeg net zoveel
-    water toe tot je een smeuïge saus verkrijgt (ongeveer 150 ml).
+2. Kook de pasta volgens de aanwijzingen op verpakking. Giet af en meng er de saus door. Dien onmiddelijk op. 
 
-3. Giet de pasta met broccoli af, gooi terug in de kookpot (mag nog nat
-    zijn) en meng er de saus onder.
-
-4. Schep in borden en strooi er wat gehakte pinda's of sesamzaadjes
-    over.
