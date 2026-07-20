@@ -1,8 +1,8 @@
-# ## Cake klassiek
+# Cake klassiek
 
 *Geïnspireerd op de klassieke 4/4 cake, van de natte/vettige soort*
 
-# ingrediënten
+## Ingrediënten
 
 - 340 g bloem
 - 300 g suiker
