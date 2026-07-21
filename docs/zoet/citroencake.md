@@ -5,10 +5,10 @@
 
 - 360 g bloem
 - 24 g tapiocameel
-- 360 g suiker
+- 300 g suiker
 - 400 g sojamelk (of zijdetofu)
 - zeste en sap van 1 citroen
-- 150 g kokosolie
+- 180 g kokosolie
 - 1 tl natriumbicarbonaat
 - 2 el maanzaad (optioneel)
 

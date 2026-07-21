@@ -1,16 +1,12 @@
-*Geslaagd experiment van Irene, gebaseerd op [dit recept van ProVeg](https://proveg.org/nl/recepten/vegan-cupcakes-basisrecept/)*
-
-*Minder geschikt voor een grote cake: beetje te nat + taaie korst*
-
 # Cake - basis
 
 ## Ingrediënten
 
-- 300 g bloem
+- 360 g bloem
 - 300 g suiker
-- 500 g sojamelk
+- 400 g sojamelk
 - 180 g kokosolie
-- 36 g tapiocameel of maïzena
+- 24 g tapiocameel of maïzena
 - 1 tl natriumbicarbonaat
 - 1 el appelazijn
 - 1/2 tl zwart zout
