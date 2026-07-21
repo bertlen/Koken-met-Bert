@@ -6,7 +6,7 @@
 * 200 g cashews
 * 300 g zijdetofu
 * 50 g kokosolie
-* 100 g suiker, of naar smaak
+* 75 g suiker, of naar smaak
 * geutje amaretto, kirsh, porto of madeira (optioneel, naar smaak)
 * amandelaroma (optioneel => alcoholvrije tiramisu)
 

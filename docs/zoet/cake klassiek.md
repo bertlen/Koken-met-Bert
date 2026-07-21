@@ -4,16 +4,16 @@
 
 ## Ingrediënten
 
-- 340 g bloem
+- 300 g bloem
 - 300 g suiker
-- 200 g margarine
+- 180 g kokosolie
 - 300 g zijdetofu
-- 10 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
+- 30 g tapiocazetmeel / aardappelzetmeel / maiszetmeel
 - 1 el appelazijn
 - 1 tl natriumbicarbonaat
 
 ## Bereiding
-  1. Doe margarine met zijdetofu, margarine en suiker in een mengkom. 
+  1. Doe de olie met zijdetof en suiker in een mengkom. 
   2. Zet het geheel even in de microgolf tot het lauw is en de margarine goed vloeibaar blijft.
   3. Voeg de bloem, tapiocameel en natriumbicarbonaat toe en meng tot een glad beslag.
   4. Voeg ook de andere ingrediënten toe. 
