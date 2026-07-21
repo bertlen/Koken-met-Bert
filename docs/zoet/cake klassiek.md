@@ -13,7 +13,7 @@
 - 1 tl natriumbicarbonaat
 
 ## Bereiding
-  1. Doe de olie met zijdetof en suiker in een mengkom. 
+  1. Doe de olie met zijdetofu en suiker in een mengkom. 
   2. Zet het geheel even in de microgolf tot het lauw is en de margarine goed vloeibaar blijft.
   3. Voeg de bloem, tapiocameel en natriumbicarbonaat toe en meng tot een glad beslag.
   4. Voeg ook de andere ingrediënten toe. 
