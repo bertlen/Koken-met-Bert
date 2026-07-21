@@ -1,5 +1,7 @@
 *Geslaagd experiment van Irene, gebaseerd op [dit recept van ProVeg](https://proveg.org/nl/recepten/vegan-cupcakes-basisrecept/)*
 
+*Minder geschikt voor een grote cake: beetje te nat + taaie korst*
+
 # Cake - basis
 
 ## Ingrediënten
