@@ -7,7 +7,7 @@
 * 300 g zijdetofu
 * 50 g kokosolie
 * 75 g suiker, of naar smaak
-* geutje amaretto, kirsh, porto of madeira (optioneel, naar smaak)
+* geutje amaretto, kirsh,... (optioneel, naar smaak)
 * amandelaroma (optioneel => alcoholvrije tiramisu)
 
 ## Bereiding
