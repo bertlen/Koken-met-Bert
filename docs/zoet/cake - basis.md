@@ -2,11 +2,11 @@
 
 ## Ingrediënten
 
-- 360 g bloem
+- 300 g bloem
 - 300 g suiker
 - 400 g sojamelk
 - 180 g kokosolie
-- 24 g tapiocameel of maïzena
+- 36 g tapiocameel of maïzena
 - 1 tl natriumbicarbonaat
 - 1 el appelazijn
 - 1/2 tl zwart zout
