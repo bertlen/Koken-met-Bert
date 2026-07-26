@@ -10,5 +10,6 @@ Kies een categorie of recept in de navigatie.
 
 - [Structuren van kokos met een crème van passievrucht](<zoet/kokos passievrucht dessertbordje.md>)
 - [Bourguignon](hoofdgerechten/Bourguinion.md)
-- [Eenvoudige Enchiladas](hoofdgerechten/eenvoudige-enchiladas.md)
+- [Eenvoudige enchiladas](hoofdgerechten/eenvoudige-enchiladas.md)
 - [Auberginestoofpot met kikkererwten en amandelen](hoofdgerechten/auberginestoofpot-met-kikkererwten-en-amandelen.md)
+- [Mama's macaroni](hoofdgerechten/mamas-macaroni.md)
