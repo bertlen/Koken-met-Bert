@@ -3,7 +3,7 @@
 
 ## Ingrediënten
 
-- 360 g bloem
+- 330 g bloem
 - 24 g tapiocameel
 - 300 g suiker
 - 400 g sojamelk (of zijdetofu)

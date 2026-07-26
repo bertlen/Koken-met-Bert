@@ -2,7 +2,7 @@
 
 ## Ingrediënten
 
-- 300 g bloem
+- 330 g bloem
 - 300 g suiker
 - 400 g sojamelk
 - 180 g kokosolie
