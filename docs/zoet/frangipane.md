@@ -22,6 +22,3 @@
 5. Breng over in een (siliconen) bakvorm.
 6. Bak 30-35 minuten op 180 &deg;C. Prik om de gaarheid te testen.
 7. Laat eerst afkoelen en ontvorm dan.
-
-## Variaties
-* Kokostaart: kokospoeder in plaats van amandel
