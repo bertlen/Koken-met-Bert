@@ -4,7 +4,7 @@
 
 * 300 g bloem
 * 300 g suiker
-* 180 g olie
+* 180 g kokos- of koolzaadolie
 * 330 g sojamelk of sojayoghurt
 * 30 g tapiocazetmeel, aardappelzetmeel of maïszetmeel
 * enkel druppeltje vanille-aroma

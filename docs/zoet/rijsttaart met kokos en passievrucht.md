@@ -1,4 +1,4 @@
-# Kokosrijsttaart met passievrucht
+# Rijsttaart met passievrucht
 
 ## Ingrediënten
 

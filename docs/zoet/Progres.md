@@ -1,26 +1,23 @@
-# Progrès v3.0
-
-Margarine i.p.v. kokosolie. Helemaal top! Geen pruttelend vet meer. Wel
-minder krokant, taaier => misschien geen xanthaangom in aquafaba meer
-gebruiken.
+# Progrès 
+*De vegan versie van een oud familierecept*
 
 ## Ingrediënten
 
-amandelkoek:
+**amandelkoek**
 
-* 250 g sojaboter
+* 200 g kokosolie
 * 300 g suiker
 * 200 g amandelpoeder
 * 250 g bloem
 * 150-200 ml aquafaba (of het vocht van 1-2 bokaal/blik kikkererwten)
 
-ganache:
+**ganache**
 
 * 225 g zwarte chocolade
 * 200 g kokosroom
 * 25 g kokosolie
 
-garnituur:
+**garnituur**
 
 * chocoladeschilfers
 * poedersuiker
@@ -34,7 +31,7 @@ garnituur:
     Nog gemakkelijker: gebruik één grote, platte vorm. Achteraf snijd je
     de koek in drie gelijke stukken.
 
-* smelt de margarine en voeg de suiker toe.
+* smelt de kokosolie en voeg de suiker toe.
 * Voeg ook bloem en amandelpoeder toe.
 * klop de aquafaba (zeer) stijf en spatel deze enigzins voorzichtig
     onder het deeg.
