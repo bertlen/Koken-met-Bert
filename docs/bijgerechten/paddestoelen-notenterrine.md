@@ -2,7 +2,7 @@
 
 ## Ingrediënten
 
-- 450 g bospaddestoelen 
+- 450 g bospaddestoelen
 - 6 sjalotten
 - 3 tenen look
 - 180 g walnoten
